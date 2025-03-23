@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background: #2f3136;
+    font-family: system-ui;
+    display: grid;
+    place-content: center;
+}
+.app{
+    display:flex;
+    flex-direction: column;
+    gap: 8px; 
+  }
